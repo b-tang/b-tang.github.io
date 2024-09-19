@@ -25,11 +25,11 @@ This website is a personal portfolio and blog designed to highlight my skills, p
 ## Technologies Used
 
 - **HTML/CSS/JavaScript:** Core structure and styling.
-- **GitHub:** Hosting the website.
+- **GitHub Pages:** Hosting the website.
 
 ## Usage
 
-To view the website, simply visit the following link: [b-tang.github.io](https://b-tang.github.io/)
+To view the website, simply visit the following link: [briantang.dev](https://briantang.dev)
 
 ## License
 
