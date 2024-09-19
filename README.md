@@ -1,6 +1,6 @@
-## Portfolio
+## briantang.dev
 
-Welcome to my minimalist portfolio! This site serves as an online portfolio and a space where I showcase my projects, and provide ways to connect with me with simplicity user experience.
+Welcome to my minimalistic portfolio site!
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to my minimalist portfolio! This site serves as an online portfolio and 
 
 ## About
 
-This website is a personal portfolio and blog designed to highlight my skills, projects, and experiences.
+This site serves as an online portfolio and a space where I showcase my projects, skills, experience and provide ways to connect with me with simplicity user experience.
 
 ## Features
 
@@ -25,7 +25,7 @@ This website is a personal portfolio and blog designed to highlight my skills, p
 ## Technologies Used
 
 - **HTML/CSS/JavaScript:** Core structure and styling.
-- **GitHub Pages:** Hosting the website.
+- **GitHub-Pages:** Hosting the website.
 
 ## Usage
 
@@ -43,4 +43,6 @@ If you have any inquiries, you can reach me at:
 - **LinkedIn:** [briantang01](https://www.linkedin.com/in/briantang01/)
 - **Twitter:** [briantangg](https://twitter.com/briantangg)
 
-<br>Thank you for visiting my website!
+------
+
+Made with 🩶 
