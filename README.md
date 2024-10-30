@@ -41,7 +41,7 @@ If you have any inquiries, you can reach me at:
 
 - **Email:** briantang31@gmail.com
 - **LinkedIn:** [briantang01](https://www.linkedin.com/in/briantang01/)
-- **X:** [briantangg](https://x.com/briantangg)
+- **X (fka Twitter):** [briantangg](https://x.com/briantangg)
 
 ------
 
