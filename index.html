@@ -65,9 +65,22 @@
         },
       };
     </script>
+    <style>
+      @layer utilities {
+        .cursor-custom {
+          cursor: url('images/pointer.png'), auto;
+        }
+        .cursor-pointer:hover {
+          cursor: url('images/link.png'), auto;
+        }
+        p:hover, a:hover, h1:hover, h2:hover, h3:hover {
+          @apply cursor-pointer;
+        }
+      }
+    </style>
   </head>
 
-  <body class="font-inter flex-wrap overflow-x-hidden scroll-smooth w-full">
+  <body class="font-inter flex-wrap overflow-x-hidden scroll-smooth w-full cursor-custom">
     <!-- Navigation Bar -->
     <nav class="py-5 sm:py-5 md:py-8 lg:py-8">
       <div class="container mx-auto w-full max-w-[700px]" />
